@@ -1,0 +1,11 @@
+1.Decsion tree model:
+Mean:  4.12157213179872
+Standard Deviation:  0.725899268318959
+
+2.Linear regression:
+Mean:  5.037482786117751
+Standard Deviation:  1.0594382405606955
+
+3.Random Forest Regressor
+Mean:  3.3249933081015386
+Standard Deviation:  0.7403835237898678
